@@ -1,0 +1,6 @@
+here:
+  name: "&e{name}"
+
+servers:
+  srv2:
+    name: "&a{name}"
